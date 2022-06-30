@@ -1,0 +1,6 @@
+{
+	"appId": "th.co.xsense.touch",
+	"appName": "Tracking Touch",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
